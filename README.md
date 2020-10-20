@@ -1,4 +1,4 @@
 Java 1.8
 MYSQL 5.6
 Tomcat 7.0.92
-Nginx 1.8.2
+Nginx x.y.z
